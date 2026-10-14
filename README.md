@@ -73,6 +73,10 @@ node src/index.js
 
 ![Đăng nhập lần đầu](images/First%20login.png)
 
+Khi được yêu cầu, VNPay sẽ gửi mã OTP để xác minh truy cập. Mã OTP chỉ có hiệu lực trong thời gian ngắn và không được chia sẻ cho người khác.
+
+![Nhận OTP](images/Receive%20OTP.jpg)
+
 ### Các lần chạy sau
 
 Cookie và `deviceId` được đọc từ `vnpay_session.json`. Nếu session còn hiệu lực, ứng dụng có thể bỏ qua giao diện đăng nhập.
@@ -205,6 +209,7 @@ Chọn `4` trong menu chính để tải lại danh sách và chọn cấu hình
 │   ├── Create QR.png
 │   ├── First login.png
 │   ├── Menu.png
+│   ├── Receive OTP.jpg
 │   ├── Test transfer by created QR.jpg
 │   ├── Transaction detailed.png
 │   └── Transactions.png

@@ -1,17 +1,17 @@
 {
-  "name": "vnpay-merchant-pay",
+  "name": "vnpay-merchant-cli",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/petertuananh/VNPay-Merchant-Pay#readme",
+  "homepage": "https://github.com/petertuananh/VNPay-Merchant-Cli#readme",
   "bugs": {
-    "url": "https://github.com/petertuananh/VNPay-Merchant-Pay/issues"
+    "url": "https://github.com/petertuananh/VNPay-Merchant-Cli/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petertuananh/VNPay-Merchant-Pay.git"
+    "url": "git+https://github.com/petertuananh/VNPay-Merchant-Cli.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Peter Tuan Anh",
   "type": "commonjs",
   "main": "./src/index.js",
   "scripts": {
