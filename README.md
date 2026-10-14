@@ -29,8 +29,8 @@
 ## Cài đặt
 
 ```bash
-git clone https://github.com/petertuananh/VNPay-Merchant-Pay.git
-cd VNPay-Merchant-Pay
+git clone https://github.com/petertuananh/VNPay-Merchant-CLI.git
+cd VNPay-Merchant-CLI
 npm install
 ```
 
