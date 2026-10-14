@@ -1,4 +1,4 @@
-# VNPay Merchant Pay CLI
+# VNPay Merchant CLI
 
 Ứng dụng CLI Node.js tích hợp với **VNPay Merchant View** để hỗ trợ merchant tạo mã QR thanh toán và tra cứu giao dịch trực tiếp từ terminal.
 
